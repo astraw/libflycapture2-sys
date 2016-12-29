@@ -1,7 +1,7 @@
 [package]
 name = "libflycapture2-sys"
 description = "bindings to the FlyCapture library"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andrew Straw <strawman@astraw.com>"]
 build = "build.rs"
 license = "MIT/Apache-2.0"
