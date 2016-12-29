@@ -7,5 +7,6 @@ build = "build.rs"
 license = "MIT/Apache-2.0"
 homepage = "https://github.com/astraw/libflycapture2-sys"
 repository = "https://github.com/astraw/libflycapture2-sys"
+links = "flycapture-c"
 
 [dependencies]
